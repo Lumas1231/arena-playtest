@@ -1,7 +1,7 @@
 {
-  "online": false,
-  "updated_utc": "2026-10-12T07:49:13.5544698Z",
-  "build": 164,
   "database": "art-of-battle-online",
-  "server": "https://pottery-unwrap-health-living.trycloudflare.com"
+  "updated_utc": "2026-10-12T07:49:33.3469944Z",
+  "server": "https://prague-creates-wells-extension.trycloudflare.com",
+  "online": true,
+  "build": 166
 }
