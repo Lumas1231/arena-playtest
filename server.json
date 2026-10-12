@@ -1,7 +1,7 @@
 {
-  "server": "https://monte-gold-creatures-leone.trycloudflare.com",
-  "updated_utc": "2026-10-12T06:22:10.1138566Z",
-  "online": false,
+  "updated_utc": "2026-10-12T06:22:42.0497474Z",
   "database": "art-of-battle-online",
+  "online": true,
+  "server": "https://modelling-measurements-martin-territories.trycloudflare.com",
   "build": 164
 }
