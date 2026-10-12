@@ -1,7 +1,7 @@
 {
   "database": "art-of-battle-online",
-  "updated_utc": "2026-10-12T07:49:33.3469944Z",
+  "updated_utc": "2026-10-12T08:12:47.4051430Z",
   "server": "https://prague-creates-wells-extension.trycloudflare.com",
-  "online": true,
+  "online": false,
   "build": 166
 }
