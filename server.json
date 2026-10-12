@@ -1,7 +1,7 @@
 {
+  "online": true,
+  "server": "https://sleeve-ipaq-ranges-pope.trycloudflare.com",
+  "build": 166,
   "database": "art-of-battle-online",
-  "updated_utc": "2026-10-12T08:12:47.4051430Z",
-  "server": "https://prague-creates-wells-extension.trycloudflare.com",
-  "online": false,
-  "build": 166
+  "updated_utc": "2026-10-12T08:13:11.4613312Z"
 }
