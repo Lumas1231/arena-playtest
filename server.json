@@ -1,7 +1,8 @@
 {
-  "build": 168,
-  "updated_utc": "2026-10-12T09:24:50.1948950Z",
+  "build": 169,
+  "updated_utc": "2026-10-13T11:14:40.6254268Z",
   "database": "art-of-battle-online",
   "online": true,
-  "server": "https://publishing-gear-quantitative-icons.trycloudflare.com"
+  "server": "https://publishing-gear-quantitative-icons.trycloudflare.com",
+  "build_id": "main-v169-r2"
 }
