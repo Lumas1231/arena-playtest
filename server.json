@@ -1,9 +1,9 @@
 {
-  "server": "https://the-primary-piece-voip.trycloudflare.com",
-  "online": true,
   "database": "art-of-battle-online",
-  "updated_utc": "2026-10-14T09:38:55.8788254Z",
+  "server": "https://bringing-once-reynolds-democratic.trycloudflare.com",
+  "online": true,
+  "updated_utc": "2026-10-15T05:09:08.6022725Z",
   "build": 169,
-  "build_id": "main-v169-r13",
-  "server_revision": "main-v169-r13"
+  "build_id": "main-v169-r17",
+  "server_revision": "main-v169-r17"
 }
